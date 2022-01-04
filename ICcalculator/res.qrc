@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/binary.ico</file>
+        <file>images/complex.ico</file>
+        <file>images/date.ico</file>
+        <file>images/date2.ico</file>
+        <file>images/game.ico</file>
+        <file>images/iccalculator.ico</file>
+        <file>images/matrix.ico</file>
+        <file>images/max.ico</file>
+        <file>images/maxt.ico</file>
+        <file>images/programmer.ico</file>
+        <file>images/relationship.ico</file>
+        <file>images/science.ico</file>
+        <file>images/science2.ico</file>
+        <file>images/matrix2.ico</file>
+        <file>images/mainIco.ico</file>
+        <file>images/warning.ico</file>
+        <file>images/success.ico</file>
+        <file>images/cash.ico</file>
+    </qresource>
+</RCC>
